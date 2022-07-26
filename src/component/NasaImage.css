@@ -1,0 +1,17 @@
+.text {
+  font-size: 1.5rem;
+  /* letter-spacing: 0.1rem; */
+}
+
+.text1 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.container {
+  background-color: #e9c46a;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
