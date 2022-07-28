@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NasaPOD/static/css/main.76488e4d.css",
+    "main.js": "/NasaPOD/static/js/main.70513f53.js",
+    "index.html": "/NasaPOD/index.html",
+    "main.76488e4d.css.map": "/NasaPOD/static/css/main.76488e4d.css.map",
+    "main.70513f53.js.map": "/NasaPOD/static/js/main.70513f53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76488e4d.css",
+    "static/js/main.70513f53.js"
+  ]
+}
